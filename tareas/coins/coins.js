@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // Clave API para acceder a los servicios de CoinAPI (debes reemplazarla con tu propia clave)
-    const apikey = '1558e78c-0e05-454e-9755-5681f9e943e1';
+    const apikey = '';
 
     // URL de la API para obtener la lista de intercambios de criptomonedas
     const url = 'https://rest.coinapi.io/v1/exchanges';
